@@ -1,0 +1,1 @@
+java -jar indexer-cli-6.0-SNAPSHOT.jar -r C:/Users/txurt/maven-repository -i C:/Users/txurt/maven-repository/.index -d C:/Users/txurt/maven-repository/.index
